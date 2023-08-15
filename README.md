@@ -1,5 +1,5 @@
 
-![1](https://github.com/Bahaaeddineg/bahaaeddineg/assets/121982483/180a768e-7b78-4e54-8971-5f70abd47fa5)
+![3](https://github.com/Bahaaeddineg/bahaaeddineg/assets/121982483/a6cb806e-af56-4ad3-bcd0-64b77def5170)
 <h1 align="center">Hi 👋, I'm Bahaaeddine</h1>
 <h3 align="center">A passionate computer science student and mobile applications developer from Algeria</h3>
 
