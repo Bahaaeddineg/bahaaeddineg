@@ -1,7 +1,7 @@
 <img src="https://pasinfotech.com/wp-content/uploads/2019/06/flutter-banner.jpg"/>
 <h1 align="center">Hi 👋, I'm Bahaaeddine</h1>
 <h3 align="center">A passionate computer science student and mobile applications developer from Algeria</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p>
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahaaeddineg&label=Profile%20views&color=0e75b6&style=flat" alt="bahaaeddineg" /> </p>
 
