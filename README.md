@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bahaaeddine</h1>
 <h3 align="center">A passionate computer science student and mobile applications developer from Algeria</h3>
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/>
+![2gif](https://github.com/Bahaaeddineg/bahaaeddineg/assets/121982483/79d8a964-8cb2-45ae-8e8c-66c5cf290c31)
+
 - 🌱 I’m currently learning **backend development**
 
 - 💬 Ask me about **Flutter,**
