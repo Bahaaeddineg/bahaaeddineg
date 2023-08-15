@@ -1,6 +1,8 @@
+
+![1](https://github.com/Bahaaeddineg/bahaaeddineg/assets/121982483/180a768e-7b78-4e54-8971-5f70abd47fa5)
 <h1 align="center">Hi 👋, I'm Bahaaeddine</h1>
 <h3 align="center">A passionate computer science student and mobile applications developer from Algeria</h3>
-![2gif](https://github.com/Bahaaeddineg/bahaaeddineg/assets/121982483/79d8a964-8cb2-45ae-8e8c-66c5cf290c31)
+
 
 - 🌱 I’m currently learning **backend development**
 
