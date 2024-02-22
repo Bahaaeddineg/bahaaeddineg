@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mm_gueroumi@esi.dz**
 
-- ⚡ Fun fact **The first mobile app ever created was a simple game called "Snake," developed in 1997 for Nokia phones. It became incredibly popular and set the stage for the booming mobile app industry we know today.**
+- ⚡ **The first mobile app ever created was a simple game called "Snake," developed in 1997 for Nokia phones. It became incredibly popular and set the stage for the booming mobile app industry we know today.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
