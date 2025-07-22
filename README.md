@@ -1,16 +1,13 @@
 
-![3](https://github.com/Bahaaeddineg/bahaaeddineg/assets/121982483/a6cb806e-af56-4ad3-bcd0-64b77def5170)
 <h1 align="center">Hi 👋, I'm Bahaaeddine</h1>
-<h3 align="center">A passionate computer science student and mobile applications developer from Algeria</h3>
+<h3 align="center">A passionate software engineering student and mobile applications developer from Algeria</h3>
 
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Flutter,**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **mm_gueroumi@esi.dz**
-
-- ⚡ **The first mobile app ever created was a simple game called "Snake," developed in 1997 for Nokia phones. It became incredibly popular and set the stage for the booming mobile app industry we know today.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
