@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Flutter**
-
 - 📫 How to reach me **mm_gueroumi@esi.dz**
 
 <h3 align="left">Connect with me:</h3>
